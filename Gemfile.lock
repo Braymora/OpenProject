@@ -476,8 +476,7 @@ GEM
     dotenv-rails (2.8.1)
       dotenv (= 2.8.1)
       railties (>= 3.2)
-    drb (2.2.0)
-      ruby2_keywords
+    drb (2.2.1)
     dry-container (0.11.0)
       concurrent-ruby (~> 1.0)
     dry-core (1.0.1)
@@ -615,7 +614,7 @@ GEM
     html-pipeline (2.14.3)
       activesupport (>= 2)
       nokogiri (>= 1.4)
-    htmlbeautifier (1.4.2)
+    htmlbeautifier (1.4.3)
     htmldiff (0.0.1)
     htmlentities (4.3.4)
     http-2-next (1.0.3)
@@ -623,7 +622,7 @@ GEM
     httpclient (2.8.3)
     httpx (1.2.2)
       http-2-next (>= 1.0.3)
-    i18n (1.14.1)
+    i18n (1.14.4)
       concurrent-ruby (~> 1.0)
     i18n-js (4.2.3)
       glob (>= 0.4.0)
@@ -696,7 +695,7 @@ GEM
       net-imap
       net-pop
       net-smtp
-    marcel (1.0.2)
+    marcel (1.0.4)
     markly (0.10.0)
     matrix (0.4.2)
     messagebird-rest (1.4.2)
@@ -825,7 +824,7 @@ GEM
       puma (>= 5.0, < 7)
     raabro (1.4.0)
     racc (1.7.3)
-    rack (2.2.8)
+    rack (2.2.8.1)
     rack-accept (0.4.5)
       rack (>= 0.4)
     rack-attack (6.7.0)
@@ -907,7 +906,7 @@ GEM
     redis-client (0.19.1)
       connection_pool
     regexp_parser (2.9.0)
-    reline (0.4.2)
+    reline (0.4.3)
       io-console (~> 0.5)
     representable (3.2.0)
       declarative (< 0.1.0)
@@ -1054,7 +1053,7 @@ GEM
       unicode-display_width (>= 1.1.1, < 3)
     test-prof (1.3.1)
     text-hyphen (1.5.0)
-    thor (1.3.0)
+    thor (1.3.1)
     thread_safe (0.3.6)
     timecop (0.9.8)
     timeout (0.4.1)
@@ -1114,7 +1113,7 @@ GEM
       zeitwerk (>= 2.6)
     xpath (3.2.0)
       nokogiri (~> 1.8)
-    yard (0.9.34)
+    yard (0.9.36)
     zeitwerk (2.6.13)
 
 PLATFORMS
